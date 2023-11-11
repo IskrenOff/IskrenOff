@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iskren</h1>
 <h3 align="center">"Mechanical Engineer turned Self-taught C# Developer | Gaming Aficionado 🎮 | Passionate about Game Development, Pixel Art, 3D Modeling, and the Mysteries of Space 🌌 | Crafting Virtual Worlds and Engineering Real Dreams 💡✨"</h3>
-<img align="center" alt="Gaming" width="700" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/550a2f37061861.5733485064a6d.gif">
+<img align="center" alt="Gaming" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/550a2f37061861.5733485064a6d.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iskrenoff" alt="iskrenoff" /></a> </p>
 
