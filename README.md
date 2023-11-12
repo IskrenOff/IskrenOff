@@ -4,7 +4,7 @@
 <img align="left" alt="Gaming"  src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/550a2f37061861.5733485064a6d.gif">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iskrenoff" alt="iskrenoff" /></a> </p>
-https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true
+
 - 🔭 I’m currently working on **small RPG game ,desktop apps**
 
 - 🌱 I’m currently learning **game dev , Angular , C++**
