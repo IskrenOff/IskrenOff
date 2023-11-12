@@ -24,4 +24,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iskrenoff&theme=dark" alt="iskrenoff" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=iskrenoff&theme=dark" alt="iskrenoff" /></p>
